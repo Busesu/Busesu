@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm an Electrical & Electronics Engineering student with a strong interest in **embedded software** and **AI**. ✨
 <!--
 **Busesu/Busesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
